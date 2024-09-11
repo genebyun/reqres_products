@@ -8,7 +8,7 @@ pipeline {
         RESOURCE_GROUP = 'user13-rsrcgrp'
         AKS_NAMESPACE = 'default'
         AZURE_CREDENTIALS_ID = 'Azure-Cred'
-        TENANT_ID = '16235b34-205d-4a35-80cb-e16cac5dcd45' // Service Principal 등록 후 생성된 ID
+        TENANT_ID = 'f46af6a3-e73f-4ab2-a1f7-f33919eda5ac' // Service Principal 등록 후 생성된 ID
     }
  
     stages {
